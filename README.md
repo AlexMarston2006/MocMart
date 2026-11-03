@@ -1,5 +1,9 @@
 # MocMart
 Simulate Florida Southern College's MocMart
+Input for this program was guaranteed, below is a sample input and output
+Using arrays to simulate a stores inventory
+Commands include adding an item, printing the inventory, finding an item by its ID number, and restocking. The customer command also is used to simulate a purchase. 
+Arrays are used to hold each item, with each item being an object including its name, ID number, price, initial stock, and the amount of restock for that item
 
 SAMPLE INPUT AND OUTPUT
 
